@@ -1,4 +1,4 @@
-Flutter Profile Card
+AN OPENSOURCE Flutter Profile Card
 A simple and elegant profile card app built with Flutter. This project demonstrates basic Flutter widgets and layout techniques for creating a visually appealing profile card.
 
 Features
